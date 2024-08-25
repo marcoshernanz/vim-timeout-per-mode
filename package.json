@@ -11,6 +11,10 @@
     "Keymaps",
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosH911/vim-timeout-per-mode"
+  },
   "activationEvents": [
     "onStartupFinished",
     "onCommand:type"
